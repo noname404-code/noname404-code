@@ -1,7 +1,7 @@
-## Hi there 👋
+##🎄×OSA—͟͞𝙀𝙍𝙍𝙊𝙍亗 🔰
 
 <!--
-**noname404-code/noname404-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**noname404-code/noname404-code** is a 🎀 _Error-404_ 🎃  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
