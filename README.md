@@ -1,6 +1,6 @@
 # 🏄‍♂️ ×OSA—͟͞𝙀𝙍𝙍𝙊𝙍亗 🎃
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftman (Developer/Filmmaker/Creator)`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time.
 
