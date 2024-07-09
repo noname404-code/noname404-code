@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is ×OSA—͟͞𝙀𝙍𝙍𝙊𝙍亗 and I'm a Digital Craftman, from Singapore.</h3>
+<p align="center">Hi 👋! My name is ×OSA—͟͞𝙀𝙍𝙍𝙊𝙍亗 and I'm a Digital Craftman, from Singapore.</p>
 
 ###
 
